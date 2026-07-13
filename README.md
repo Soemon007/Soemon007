@@ -1,3 +1,11 @@
-## Hi there 👋 I'm Soemon
+## Hi there, 👋 I'm Soemon
 
-I am an absolute beginner who loves to dabble in different projects for fun!
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
+
+Welcome to my profile!
+I'm a beginner who loves to dabble in different projects for fun! Here you will find all my projects I have undertaken as public repositories.
+
+### Featured Projects:
+- **[PCOS Meal Reccomender](https://github.com/avg03/AIC_Claude_Hackathon)** — Project submission for AIC Hackathon
