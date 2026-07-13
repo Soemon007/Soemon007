@@ -9,3 +9,4 @@ I'm a beginner who loves to dabble in different projects for fun! Here you will 
 
 ### Featured Projects:
 - **[PCOS Meal Reccomender](https://github.com/avg03/AIC_Claude_Hackathon)** — Project submission for AIC Hackathon
+- **[AI Investment Deck Builder](https://github.com/avg03/AIC_Claude_Hackathon)** — Project submission for Kelp AI-ML Hackathon
