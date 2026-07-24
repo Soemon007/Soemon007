@@ -11,4 +11,4 @@ I'm a beginner who loves to dabble in different projects for fun! Here you will 
 - **[PCOS Meal Reccomender](https://github.com/avg03/AIC_Claude_Hackathon)** — Project submission for AIC Hackathon
 - **[AI Investment Deck Builder](https://github.com/eclipse1299/Automated-Company-Teaser-Deck-Builder)** — Project submission for Kelp AI-ML Hackathon
 - **[Lumina - AI Powered LMS](https://github.com/avg03/educational-AI-twin)** - Project submission for OpenAI Build Week
-- **[Deep RL Trading Algorithm]()** - Project report for Finsearch '26
+- **[Deep RL Trading Algorithm](https://github.com/Soemon007/Finsearch-2026)** - Project report for Finsearch '26
