@@ -12,3 +12,4 @@ I'm a beginner who loves to dabble in different projects for fun! Here you will 
 - **[AI Investment Deck Builder](https://github.com/eclipse1299/Automated-Company-Teaser-Deck-Builder)** — Project submission for Kelp AI-ML Hackathon
 - **[Lumina - AI Powered LMS](https://github.com/avg03/educational-AI-twin)** - Project submission for OpenAI Build Week
 - **[Deep RL Trading Algorithm](https://github.com/Soemon007/Finsearch-2026)** - Project report for Finsearch '26
+- **[Agentic Molecular Lab](https://github.com/eclipse1299/Agentic-Molecular-Lab)** - Project submission for HackNation Global AI Hackathon
